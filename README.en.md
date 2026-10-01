@@ -10,7 +10,7 @@
 
 | Situation | What the skill does |
 |---|---|
-| You run an Australian wedding photography site and prefer to work in Chinese, but customers use English | It discusses goals, keywords, and plans in Chinese while writing website titles, descriptions, and copy in Australian English. It does not add Chinese pages by default. |
+| You run an Australian local business site and prefer to work in Chinese, but customers use English | It discusses goals, keywords, and plans in Chinese while writing website titles, descriptions, and copy in Australian English. It does not add Chinese pages by default. |
 | Your restaurant or store serves both English- and Chinese-speaking customers | It checks the existing language versions, target areas, Simplified or Traditional Chinese needs, and business facts before planning pages and search questions for each audience. |
 
 The same adaptable process can serve local businesses, ecommerce, B2B, software, content, and personal or organizational websites. These examples do not imply that every industry has been tested.
@@ -21,7 +21,7 @@ Copy the complete [`afterai-seo-geo/`](afterai-seo-geo/) folder into your host's
 
 Open a separate workspace for each client and try one of these requests:
 
-> Use AfterAI SEO/GEO to assess this Australian wedding photography site. Please respond to me in Chinese, but keep all website changes in Australian English. Ask about my business goal and priority keywords first. Give me scores and a phased plan; do not edit the site yet.
+> Use AfterAI SEO/GEO to assess this Australian local business website. Please respond to me in Chinese, but keep all website changes in Australian English. Ask about my business goal and priority keywords first. Give me scores and a phased plan; do not edit the site yet.
 
 > Use AfterAI SEO/GEO to assess the website in this local project. It has not launched. Check the source and, if available, the local preview. Report what cannot yet be verified online.
 
@@ -47,6 +47,6 @@ The assistant maintains the plan and evidence. The operator supplies essential b
 
 Keep each client's profile, plan, reports, and evidence in a verified private location outside the public skill bundle and website deployment output. A client-side `seo-geo/` directory is the default only when it is private; otherwise choose another verified location or deliver records in chat. This project's `.gitignore` excludes its root `output/` and any `seo-geo/` records, but it does not protect separate client repositories. Inspect the actual tracked and staged files before publishing because ignore rules do not remove files already tracked by Git.
 
-The current version is the **0.1.18 public preview**. Package structure and static workflows have been checked; the revised version still needs more live-site, Shopify-write, and cross-host validation. Read the [evaluation record](docs/evaluation-log.md) for the tested scope. This is not a claim of proven ranking improvement. The project uses the [MIT License](LICENSE).
+The current version is the **0.1.19 public preview**. Package structure and static workflows have been checked; the revised version still needs more live-site, Shopify-write, and cross-host validation. Read the [evaluation record](docs/evaluation-log.md) for the tested scope. This is not a claim of proven ranking improvement. The project uses the [MIT License](LICENSE).
 
 See [Contributing](CONTRIBUTING.md) for evidence and privacy requirements. Source links for search and platform rules appear in the relevant reference files and should be checked against current official guidance when used.

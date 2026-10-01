@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.19 public preview — 2026-10-01
+
+- Replace the public wedding photography walkthrough with a fictional Australian local-business example across the Chinese and English README files and the installable usage guide. No SEO/GEO rules or scoring weights changed.
+
 ## 0.1.18 public preview — 2026-10-01
 
 - Complete a release-standard review of 0.1.17 and close specific GSC, GEO retest, primary-outcome and Shopify visibility/field gaps. Clarify the Google AI inclusion control's inherited effective state and Discover impact.
