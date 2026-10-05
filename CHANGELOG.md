@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.20 public preview — 2026-10-05
+
+- Require an evidence-backed on-site opportunity decision for each primary business goal and search intent, alongside external fact alignment. Plans now explicitly consider metadata, page content and order, navigation, conversion paths, merging and new pages; justified structural changes can be early priorities. Keep fact confirmation, concrete change scope, preview and publication controls.
+
 ## 0.1.19 public preview — 2026-10-01
 
 - Replace the public wedding photography walkthrough with a fictional Australian local-business example across the Chinese and English README files and the installable usage guide. No SEO/GEO rules or scoring weights changed.

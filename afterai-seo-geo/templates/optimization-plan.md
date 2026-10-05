@@ -15,7 +15,7 @@
 - Baseline run / rubric / page sample:
 - Current audit page list or cap / exclusions / stop condition / deferred expansion:
 - GEO panel version and missing baseline observations:
-- Original design to preserve / separate redesign proposal:
+- Visual identity to preserve / page structure and user journey opportunities / separate redesign proposal:
 
 ## Release phases
 
@@ -24,14 +24,14 @@
 | Phase ID | Goal / pages / T-IDs | Required materials / dependencies | Acceptance / publish scope / restore | Next phase / deferred work and why |
 |---|---|---|---|---|
 
-默认先必要基础，再核心页增强，再按需扩展。知识库是否建设写明需求、资料和维护依据，不固定为第三阶段必做。每阶段验收上线并核对后推进下一阶段；没有发布能力则记待上线，不承诺已发布。若任务只覆盖评估或计划，这里是建议路线，不是实施授权。
+默认先必要基础与核心路径，再核心页增强，再按需扩展；有证据的页面重组或新增可进入首批，不因属于“结构性调整”自动推迟。知识库是否建设写明需求、资料和维护依据，不固定为第三阶段必做。每阶段验收上线并核对后推进下一阶段；没有发布能力则记待上线，不承诺已发布。若任务只覆盖评估或计划，这里是建议路线，不是实施授权。
 
 ## Keyword and page map
 
-| K-ID | Original / expanded query | Language / market | Intent | Evidence / date | Page / proposed action | Business value / priority | Confirmed? |
-|---|---|---|---|---|---|---|---|
+| K-ID | Original / expanded query | Language / market | Intent | Evidence / date | Current page and visitor-path gap | Keep / update / reorganize / merge / add; target page and phase | Business value / priority | Confirmed? |
+|---|---|---|---|---|---|---|---|---|
 
-动作：保留／更新／合并／新增。词量、竞争强度无依据时写未知。
+每个首要意图都记录站内判断：标题／描述、正文与模块、导航／内链和目标操作按实际适用性检查；可以得出“保留”，但要写证据。结构性方案写清现状→建议路径或页面层级、涉及页面、所需事实和预览方式。站外资料修正另列任务，与站内机会按影响一起排序。词量、竞争强度无依据时写未知。
 
 ## Metadata decision for priority pages
 
