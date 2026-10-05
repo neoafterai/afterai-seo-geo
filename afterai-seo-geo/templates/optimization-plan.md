@@ -5,6 +5,7 @@
 ## Scope and baseline
 
 - Project / domain / market / site languages:
+- Site lifecycle: not yet launched / already live; agreed first-launch scope if new:
 - Requested stage and approved scope:
 - Business goals and constraints:
 - Primary outcome measure / available source / baseline window / unmeasured limitation:
@@ -24,7 +25,7 @@
 | Phase ID | Goal / pages / T-IDs | Required materials / dependencies | Acceptance / publish scope / restore | Next phase / deferred work and why |
 |---|---|---|---|---|
 
-默认先必要基础与核心路径，再核心页增强，再按需扩展；有证据的页面重组或新增可进入首批，不因属于“结构性调整”自动推迟。知识库是否建设写明需求、资料和维护依据，不固定为第三阶段必做。每阶段验收上线并核对后推进下一阶段；没有发布能力则记待上线，不承诺已发布。若任务只覆盖评估或计划，这里是建议路线，不是实施授权。
+已上线网站默认先必要基础与核心路径，再核心页增强，最后按需扩展；每批验收发布、核对线上结果后推进下一发布批次。**新站先列首发门槛**：将约定首发范围内已知且可控制的事实、核心页面和答案、SEO 设置、适用 GEO 内容／Schema／JSON-LD、导航与内链、转化路径、移动端和视觉／功能检查放在首次发布前完成；可拆内部实施批次，但不要把这些已确定工作列为“上线后再决定”。另列首发后真实环境核验与数据观察，以及真正可选或需要新资料的扩展。新站首发缺口若影响核心目标，先解决或与客户明确调整首发范围；不能把未完成写成“首发已准备好”。有证据的页面重组或新增可进入首发范围／已上线站首批，不因属于结构性调整自动推迟。知识库按需求与维护依据判断，不固定为第三阶段。没有发布能力则记待上线，不承诺已发布。若任务只覆盖评估或计划，这里是建议路线，不是实施授权。
 
 ## Keyword and page map
 

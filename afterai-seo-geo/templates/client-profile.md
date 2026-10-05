@@ -11,6 +11,7 @@
 | Customer / project ID | 待确认 | |
 | Website domain / canonical host | 待确认 | |
 | Audit input / environment | live / local-preview / source-only；本地项目无公网域名也可开始 | |
+| Site lifecycle / first-launch scope | 尚未首次上线／已经上线；新站记录首发目标页面与功能范围，不把本地预览当已发布 | |
 | Local project / entry / preview URL | 仅记录当前项目需要的路径与已验证地址，不存访问秘密 | |
 | Working folder | 当前客户目录 | |
 | Private record root / deployment exclusion evidence | 核实实际记录根路径及不被公开发布的依据，不只依靠 Git ignore | |
@@ -63,7 +64,7 @@
 
 ## Baseline configuration
 
-- Skill version: 0.1.20
+- Skill version: 0.1.21
 - Rubric version: 0.1.2
 - Baseline run ID / date: 未建立
 - Agreed page sample / types / language coverage: 未确认

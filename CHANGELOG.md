@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.21 public preview — 2026-10-05
+
+- Distinguish a new site's first launch from phased changes to an existing live site. New sites now complete all applicable, known, controllable core SEO/GEO, page content and user journeys in the agreed launch scope before publication; internal work may still be batched. Live verification and observed search/AI performance guide later iteration. Existing live sites retain incremental releases.
+
 ## 0.1.20 public preview — 2026-10-05
 
 - Require an evidence-backed on-site opportunity decision for each primary business goal and search intent, alongside external fact alignment. Plans now explicitly consider metadata, page content and order, navigation, conversion paths, merging and new pages; justified structural changes can be early priorities. Keep fact confirmation, concrete change scope, preview and publication controls.
