@@ -41,6 +41,12 @@
 
 方法参考：[shopify-geo-audit](https://github.com/maxbuildog/skills/tree/main/skills/shopify-geo-audit) 的商品专项检查与样本范围表达；不依赖其扫描器，不将第三方缺陷比例当成本店数据。
 
+## 可选的 Shopify AI 商品入口
+
+先把常规商品页、集合、政策、导航、可访问性及适用的 SEO／Schema 做好，再按店铺目标判断是否需要额外入口。Shopify 官方的 [AI 搜索优化说明](https://help.shopify.com/en/manual/promoting-marketing/seo/optimizing-store-for-ai) 提到其第一方 **Shopify Knowledge Base** 应用可整理店铺常见问题；它与本 skill 所说按需求建设的网站公开知识库不同，不是每家店必装，也不是 AI 推荐保证。当前官方说明将该应用列为所有 Shopify 套餐可用；执行时重核费用、权限、地区与实际适配。仅在商品／履约问答反复出现且店铺能维护准确答案时提议使用，先列问题和证据，安装或改写回答需覆盖实际对象的授权。
+
+[Shopify Catalog](https://help.shopify.com/en/manual/shopify-catalog) 可能向参与的 AI 购物渠道提供合格商品资料；先只读核对当前店铺／目标市场的资格、商品资料与可用渠道，再区分“商品被提供给渠道”和“真实回答出现／被引用”。不要把 Shopify 商店、Shopify Catalog 或 Knowledge Base 当作 ChatGPT、Google AI 或 Gemini 排名第一的条件。任何 AI 渠道访问选择或影响在线商品可见性的设置，先展示具体影响并取得针对该设置的授权；不为 SEO/GEO 分数擅自开启、关闭或安装。
+
 ## 没有连接或写权限时
 
 给出可复制的 Markdown 操作单：店铺、对象 ID／URL、查找位置（按实际后台核对）、原值、建议值、是否即时上线、操作顺序、预览及验收、恢复步骤。明确“待用户实施”，等待实际回传证据后再验证。不要索要密码或把令牌存入客户报告。
@@ -51,4 +57,4 @@
 
 检查目标语言的线上／预览页面、必要源码或 DOM、手机与桌面、商品／联系路径。记录哪些环境已验证。主题发布与共享内容写入分开记录；后者可能已经上线，不要错误标记为待主题发布。
 
-官方参考（执行时核对）：[Shopify SEO](https://help.shopify.com/en/manual/promoting-marketing/seo)、[Product details and SEO listing](https://help.shopify.com/en/manual/products/details/product-details-page)、[Searchability settings](https://help.shopify.com/en/manual/online-store/storefront-search/managing-searchability)、[Duplicate themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/duplicating-themes)、[Publish themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/publishing-themes)。
+官方参考（执行时核对）：[Shopify SEO](https://help.shopify.com/en/manual/promoting-marketing/seo)、[Product details and SEO listing](https://help.shopify.com/en/manual/products/details/product-details-page)、[Searchability settings](https://help.shopify.com/en/manual/online-store/storefront-search/managing-searchability)、[Duplicate themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/duplicating-themes)、[Publish themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/publishing-themes)、[AI search optimization](https://help.shopify.com/en/manual/promoting-marketing/seo/optimizing-store-for-ai)、[Shopify Catalog](https://help.shopify.com/en/manual/shopify-catalog)。

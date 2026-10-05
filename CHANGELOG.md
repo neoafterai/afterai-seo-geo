@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 public preview — 2026-10-05
+
+- Make already-authorized local implementation continue from an agreed business and keyword direction through actual edits and verification, without a duplicate approval for the same scope. Preserve separate decisions for new facts, substantial structural/brand changes, shared Shopify data and publication.
+- Distinguish a tool-specific fetch failure from a website or crawler block. Raw metadata, JSON-LD and HTTP assertions require corresponding HTML, DOM or response evidence.
+- Make monthly AI-answer checks lighter with a fixed 2–4-question sample, while retaining the full 10-question × 3-surface panel for formal baselines and major reviews. Keep denominators and Search Console anomalies explicit.
+- Add optional, official Shopify Knowledge Base and Shopify Catalog checks where applicable, without installing apps, changing AI-channel settings or promising AI placement.
+- Preserve the 13-file Markdown-only bundle and scoring rubric 0.1.2. A fictional local site was edited and a public site was inspected read-only during development; live Shopify writes and search/AI outcome gains remain unverified.
+
 ## 0.1.21 public preview — 2026-10-05
 
 - Distinguish a new site's first launch from phased changes to an existing live site. New sites now complete all applicable, known, controllable core SEO/GEO, page content and user journeys in the agreed launch scope before publication; internal work may still be batched. Live verification and observed search/AI performance guide later iteration. Existing live sites retain incremental releases.
