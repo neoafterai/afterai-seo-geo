@@ -21,7 +21,7 @@ Copy the complete [`afterai-seo-geo/`](afterai-seo-geo/) folder into your host's
 
 Open a separate workspace for each client and try one of these requests:
 
-> Use AfterAI SEO/GEO to assess this Australian local business website. Please respond to me in Chinese, but keep all website changes in Australian English. Ask about my business goal and priority keywords first. Give me scores and a phased plan; do not edit the site yet.
+> Use AfterAI SEO/GEO to assess this Australian local business website. Please respond to me in Chinese, but keep all website changes in Australian English. Ask about my business goal, priority keywords, and whether I want a full-site audit or a representative sample. Give me scores and a report before discussing edits; do not edit the site yet.
 
 > Use AfterAI SEO/GEO to assess the website in this local project. It has not launched. Check the source and, if available, the local preview. Report what cannot yet be verified online.
 
@@ -31,8 +31,8 @@ Everyday use needs only **“start,” “continue,” and “monthly check.”*
 
 ## How it works
 
-1. **Assess.** Interview the operator about the primary business outcome, supplied keywords, target market, and website languages. Inspect a public URL, local source, or local preview; reconcile important business facts; and report evidence-backed SEO, GEO, and visual-experience scores with coverage and unknowns.
-2. **Plan.** Expand candidate queries and map them to pages. Decide whether priority pages, navigation, and enquiry or purchase journeys should be kept, improved, reorganized, merged, or expanded with new pages. Rank these on-site opportunities alongside factual corrections, SEO foundations, and dependent GEO work. Group tasks into “most important,” “next,” and “later.” Define a first-launch gate for new sites and independently releasable batches for live sites. Recommend a knowledge base only when demand and maintenance capacity justify it.
+1. **Assess.** Briefly establish the primary outcome, supplied keywords, market, and website languages, then let the operator choose a full-site audit or representative sample unless they already specified the scope. Inspect a public URL, local source, or preview and report evidence-backed SEO, GEO, and visual-experience scores with the actual checked scope and unknowns.
+2. **Plan.** After the first report, ask about past website problems, changes already tried and their results, and the desired future site; reuse answers already given. Then expand queries and map them to pages. Decide whether priority pages, navigation, and enquiry or purchase journeys should be kept, improved, reorganized, merged, or expanded. Rank tasks as “most important,” “next,” and “later.” Define a first-launch gate for new sites and releasable batches for live sites. Recommend a knowledge base only when demand and maintenance capacity justify it.
 3. **Implement.** Within the agreed scope, check and improve applicable crawl/index settings, URLs and canonicals, titles and descriptions, content, internal links, mobile experience, and Schema/JSON-LD. Then develop evidence-based GEO content and observe AI search responses. For a new site, complete and preview-verify all known, controllable core work in its agreed launch scope before the first public release; for a live site, publish verified batches. Check the actual live environment and outcomes after release.
 4. **Review monthly.** Rescore on a comparable basis and keep readiness separate from observed search impressions, enquiries, and AI mentions or citations. Routine checks may sample 2–4 fixed AI questions with explicit scope; a full review retains the full panel. Produce the next concrete task list. If no prior data exists, create a first baseline rather than inventing a trend.
 
@@ -47,6 +47,6 @@ The assistant maintains the plan and evidence. The operator supplies essential b
 
 Keep each client's profile, plan, reports, and evidence in a verified private location outside the public skill bundle and website deployment output. A client-side `seo-geo/` directory is the default only when it is private; otherwise choose another verified location or deliver records in chat. This project's `.gitignore` excludes its root `output/` and any `seo-geo/` records, but it does not protect separate client repositories. Inspect the actual tracked and staged files before publishing because ignore rules do not remove files already tracked by Git.
 
-The current version is the **0.2.0 public preview**. A fictional local site was actually edited and a public site was inspected read-only. Live Shopify writes, cross-host operation, and ranking gains remain unverified; see the [evaluation record](docs/evaluation-log.md). The project uses the [MIT License](LICENSE).
+The current version is the **0.2.1 public preview**. A fictional local site was actually edited and a public site was inspected read-only; the new scope choice and post-report interview were scenario-tested. Live Shopify writes, cross-host operation, and ranking gains remain unverified; see the [evaluation record](docs/evaluation-log.md). The project uses the [MIT License](LICENSE).
 
 See [Contributing](CONTRIBUTING.md) for evidence and privacy requirements. Source links for search and platform rules appear in the relevant reference files and should be checked against current official guidance when used.

@@ -10,10 +10,12 @@
 - Business goals and constraints:
 - Primary outcome measure / available source / baseline window / unmeasured limitation:
 - First decision interview / source and date / still-open questions:
+- Audit scope choice / discovered and checked page counts / exclusions or remaining batches:
+- Post-report interview / observed past issues, previous changes and results, desired website and constraints / source and date:
 - Customer seed keywords / explicitly none prescribed / confirmed primary and supporting keyword groups / page direction / exact user answer or delegation:
 - Conflicting business facts or rules / observed alternatives / operator-confirmed authority:
 - In-scope fact inventory / verified, conflicting, unmeasured / sources and affected pages:
-- Baseline run / rubric / page sample:
+- Baseline run / rubric / full-site or sampled page set:
 - Current audit page list or cap / exclusions / stop condition / deferred expansion:
 - GEO panel version and missing baseline observations:
 - Visual identity to preserve / page structure and user journey opportunities / separate redesign proposal:

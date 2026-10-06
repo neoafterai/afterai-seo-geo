@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.1 public preview — 2026-10-06
+
+- Let operators choose a full-site audit or a representative page sample before a first broad assessment. Explicit scopes are reused; a full audit inventories discoverable unique pages and reports batch progress rather than silently turning into a sample.
+- Add a report-led interview before the first plan or website changes: ask about past site problems, prior SEO/GEO work and results, and the desired future website and constraints. Reuse answers from the brief initial intake; audit-only and narrow technical requests remain focused.
+- Make audit reports and client records state the chosen scope, discovered/checked/remaining pages, and unresolved decisions. The scoring rubric and 13-file Markdown-only bundle are unchanged.
+
 ## 0.2.0 public preview — 2026-10-05
 
 - Make already-authorized local implementation continue from an agreed business and keyword direction through actual edits and verification, without a duplicate approval for the same scope. Preserve separate decisions for new facts, substantial structural/brand changes, shared Shopify data and publication.
