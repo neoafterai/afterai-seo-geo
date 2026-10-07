@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.2.2 local release — 2026-10-07
+## 0.2.2 public preview — 2026-10-07
 
 - Require a post-audit business and keyword question when those choices are still unknown, before treating content, page-structure or GEO recommendations as a settled plan.
 - Keep scored findings and independently evidenced technical fixes in the first report; label business-dependent opportunities provisional until the operator answers or explicitly delegates keyword research and priorities.
