@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.2 local release — 2026-10-07
+
+- Require a post-audit business and keyword question when those choices are still unknown, before treating content, page-structure or GEO recommendations as a settled plan.
+- Keep scored findings and independently evidenced technical fixes in the first report; label business-dependent opportunities provisional until the operator answers or explicitly delegates keyword research and priorities.
+- Align the audit report, client profile, optimization plan and usage guide so phased recommendations follow the interview. The scoring rubric and Markdown-only bundle are unchanged.
+
 ## 0.2.1 public preview — 2026-10-06
 
 - Let operators choose a full-site audit or a representative page sample before a first broad assessment. Explicit scopes are reused; a full audit inventories discoverable unique pages and reports batch progress rather than silently turning into a sample.
