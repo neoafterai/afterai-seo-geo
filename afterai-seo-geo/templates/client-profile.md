@@ -67,7 +67,7 @@
 
 ## Baseline configuration
 
-- Skill version: 0.2.2
+- Skill version: 0.2.3
 - Rubric version: 0.1.2
 - Baseline run ID / date: 未建立
 - Agreed full-site or sampled page scope / types / language coverage / remaining pages: 未确认

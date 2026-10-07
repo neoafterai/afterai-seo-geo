@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.3 public preview — 2026-10-07
+
+- Treat customer speech and rough drafts as a factual brief, not finished website copy. Rewrite titles, descriptions, headings, body copy, CTAs and GEO answers in polished, natural language for the confirmed audience and brand voice.
+- Keep confirmed meaning and useful search terms while removing colloquial filler, unverifiable praise, keyword stuffing and AI-directed phrasing; check the result in page context and on mobile.
+- The SEO and GEO guidance now share one website-copy rule. Scoring and the Markdown-only package are unchanged.
+
 ## 0.2.2 public preview — 2026-10-07
 
 - Require a post-audit business and keyword question when those choices are still unknown, before treating content, page-structure or GEO recommendations as a settled plan.
